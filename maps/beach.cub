@@ -1,0 +1,16 @@
+R   640   400
+SO    ../images/beach256.xpm
+NO     ../images/beach256.xpm
+WE     ../images/beach256.xpm
+EA    ../images/beach256.xpm
+S ../images/police.xpm
+F 247,    223,     175
+C 150,    221,    247
+
+1111111
+1000001
+1000001
+1002001
+1000001
+100N001
+1111111
